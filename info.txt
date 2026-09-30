@@ -1,0 +1,4 @@
+Diferencia entre MySQL y SQL:
+MySQL usa MYSQL_ROOT_PASSWORD, MYSQL_DATABASE, etc. se usa root
+SQL Server requiere ACCEPT_EULA=Y y SA_PASSWORD. 
+se usa servidor sqlserver, usuario: sa y contraseña lo que sale en .env
